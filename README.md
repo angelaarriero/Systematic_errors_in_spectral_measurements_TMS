@@ -13,3 +13,5 @@ Data Dependencies: datos_betas_jonesmatrix_BEM_27nov.zip and datos_friis_BEM_bet
 #Section 6 | TMS System Model (Friis Framework):
 TMS_Friis_equations_code_paper.ipynb: Implementation of the full Friis equation model for the TMS instrument.
 main_TMS_paper.py: Principal script for the complete TMS system analysis.
+
+#General Documents folder: It contains the nominal values of the TMS components and also other functions required to operate the code. 
