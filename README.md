@@ -4,7 +4,7 @@ This repository contains the source code used to generate the results presented 
 
 Contents
 
-#Section 3.2 | Jones Matrix Implementation: Jones_and_stokes_TMS_paper_jan2026.ipynb: Notebook for the derivation and output of the Jones matrices. Install SimPy librarie.
+#Section 3.2 | Jones Matrix Implementation: Jones_and_stokes_TMS_paper_jan2026.ipynb: Notebook for the derivation and output of the Jones matrices. Install SimPy library.
 
 #Section 4 | Model Validation (Jones Calculus vs. Friis Equations): Test_friis_VS_stokes_paper_Jan2026.ipynb: Comparison between the nominal Jones matrix values and their Friis equation equivalents. Data Dependencies: datos_betas_jonesmatrix_BEM_27nov.zip and datos_friis_BEM_betas_26nov.zip
 
